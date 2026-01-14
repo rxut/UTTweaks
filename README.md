@@ -120,10 +120,11 @@ Requires a UT99 Installation. Place the `UTTweaks` folder in your UT99 directory
 
 ## Credits
 
-- **Deaod** — For helping me with UnrealScript and original NewNet
+- **Deaod** — For helping me with UnrealScript and working on IG+
 - **OldUnreal Team** — For continuing to support the game with new patches
 - **UT99 Community** — For patience, support, testing, and bug reports
 
 ## License
 
 This mod is released for the Unreal Tournament community. Feel free to use, modify, and distribute.
+
