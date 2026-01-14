@@ -33,7 +33,7 @@ defaultproperties
     bSizable=True
     bStatusBar=True
     MinWinWidth=260
-    MaxWinWidth=99999
+    MaxWinWidth=500
     MinWinHeight=400
-    MaxWinHeight=99999
+    MaxWinHeight=600
 }
