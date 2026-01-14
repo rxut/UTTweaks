@@ -124,7 +124,8 @@ Requires a UT99 Installation. Place the `UTTweaks` folder in your UT99 directory
 - **OldUnreal Team** — For continuing to support the game with new patches
 - **UT99 Community** — For patience, support, testing, and bug reports
 
-## License
-
 This mod is released for the Unreal Tournament community. Feel free to use, modify, and distribute.
+
+Note: UTTweaks was previously available as a client-side-only mod. You can find that legacy version [here](https://github.com/rxut/UT-Tweaks-Client-Side)
+
 
